@@ -847,7 +847,7 @@ client.on("interactionCreate", async (interaction) => {
   }
 });
 
-client.login(DISCORD_TOKEN);
+client.login(MTUyMDk1MDE3MDE1Njc5NDAyNw.GfFrqD.Lwd2SFt2blV-b6n3PPmnA5YCj0weCBu1Vsji1c);
 
     // Default priority for new tickets.
     defaultPriority: "none",
