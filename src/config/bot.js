@@ -202,7 +202,7 @@ export const botConfig = {
   // =========================
   // TICKET SYSTEM
   // =========================
-  tickets: {
+  {tickets: 
     // Category ID where new tickets are created (null = no forced category).
     defaultCategory: null,
 
